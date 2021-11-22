@@ -4,20 +4,28 @@ Uma aplicação simples que permite cadastrar, concluir, desfazer a conclusão e
 
 Consome a seguinte [API](https://github.com/balliegojr/todo-api)
 
-### Start
+## Motivação
+
+Utilizar Typescript + Redux + React Testing Library
+
+## Preview
+
+![image info](./public/preview.png)
+
+## Start
 
 ```bash
 yarn
 yarn dev
 ```
 
-### Principais comandos
+## Principais comandos
 
 - `dev`: Executa a aplicaçáo em `localhost:3000`
 - `test`: Executa todos os testes
 
 
-### O que contém?
+## O que contém?
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
