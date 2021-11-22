@@ -7,5 +7,8 @@ module.exports = withPWA({
   pwa: {
     dest: 'public',
     disable: !isProd
+  },
+  env: {
+    API_URL: 'http://localhost:7000/api'
   }
 })
